@@ -59,12 +59,12 @@ const DetailsDialog = (props: Props) => {
               <div className="grid justify-around grid-cols-4 mt-2 gap-y-3">
                 <div className="flex items-center gap-2">
                   <Image
-                    alt="planetscale"
-                    src="/planetscale.png"
+                    alt="aiven"
+                    src="/aiven.png"
                     width={35}
                     height={35}
                   />
-                  <span className="">Planet Scale</span>
+                  <span className="">Aiven</span>
                 </div>
                 <div className="flex items-center gap-2">
                   <Image
