@@ -19,9 +19,9 @@ export default async function Home() {
     <div className="absolute -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2">
       <Card className="w-[300px]">
         <CardHeader>
-          <CardTitle>Welcome to Note Quest</CardTitle>
+          <CardTitle>Welcome to Topic Quest</CardTitle>
           <CardDescription>
-            Note Quest is a quizz app that allows you to create and share quizz
+            Topic Quest is a quizz app that allows you to create and share quizz
             with your friends
           </CardDescription>
         </CardHeader>
